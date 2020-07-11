@@ -1,0 +1,20 @@
+TensorFlow 2.0 Upgrade Script
+-----------------------------
+Converted 1 files
+Detected 0 issues that require attention
+--------------------------------------------------------------------------------
+================================================================================
+Detailed log follows:
+
+================================================================================
+--------------------------------------------------------------------------------
+Processing file 'logger.py'
+ outputting to 'logger1.py'
+--------------------------------------------------------------------------------
+
+11:18: INFO: Renamed 'tf.Summary' to 'tf.compat.v1.Summary'
+11:36: INFO: Renamed 'tf.Summary' to 'tf.compat.v1.Summary'
+16:18: INFO: Renamed 'tf.Summary' to 'tf.compat.v1.Summary'
+16:36: INFO: Renamed 'tf.Summary' to 'tf.compat.v1.Summary'
+--------------------------------------------------------------------------------
+
