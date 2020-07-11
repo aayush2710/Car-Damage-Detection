@@ -10,7 +10,7 @@ $ pip install -r requirements.txt
 ```sh
 $ cd Train
 $ python Train.py ---help
-$ python Train.py #Train using default settings
+$ python Train.py --pretrained_weights PretrainedWeights/darknet53.conv.74 #Train using default settings
 ```
 ## To Detect
 ```sh
