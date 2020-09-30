@@ -21,5 +21,3 @@ $ python Detect.py --image_folder ='Folder Containing Images'
 ## On Android Mobile Device
 [Download APK](https://github.com/aayush2710/Car-Damage-Detection-YOLOV3/releases/download/v1.0/app-release.apk)
 
-## Credits
-1. [Eriklindernoren's pytorch implementation of YoloV3](https://github.com/eriklindernoren/PyTorch-YOLOv3)
